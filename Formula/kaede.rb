@@ -1,5 +1,5 @@
 class Kaede < Formula
-  desc "Statically-typed compiled language with rich types"
+  desc "Statically-typed compiled language for writing concise, fast servers"
   homepage "https://github.com/itto-hiramoto/kaede"
   url "https://github.com/itto-hiramoto/kaede/archive/refs/tags/v0.1.0.tar.gz"
   sha256 "263ce19cd152ce17c9d092072263679ccaedb93e31240fbf181fc7cf00e3a4f2"
