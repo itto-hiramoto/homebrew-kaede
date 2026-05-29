@@ -1,8 +1,8 @@
 class Kaede < Formula
   desc "Statically-typed compiled language for writing concise, fast servers"
   homepage "https://github.com/itto-hiramoto/kaede"
-  url "https://github.com/itto-hiramoto/kaede/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "263ce19cd152ce17c9d092072263679ccaedb93e31240fbf181fc7cf00e3a4f2"
+  url "https://github.com/itto-hiramoto/kaede/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "a970fc614be70dbc7440ad49bedcc2861f5e9b850c87ea1273284b7ac86620aa"
   license any_of: ["Apache-2.0", "MIT"]
   head "https://github.com/itto-hiramoto/kaede.git", branch: "main"
 
